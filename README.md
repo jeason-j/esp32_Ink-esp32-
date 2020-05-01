@@ -9,7 +9,7 @@ esp32串口墨水屏，树莓派通过usb串口借助esp32显示图像到墨水�
 
 效果图
 <br/>
-<img src= 'https://raw.githubusercontent.com/lixy123/esp32_Ink-esp32-/master/ink_2.jpg' /> 
+<img src= 'https://raw.githubusercontent.com/lixy123/esp32_Ink-esp32-/master/ink_3.jpg' /> 
 
 <br/>
 <img src= 'https://raw.githubusercontent.com/lixy123/esp32_Ink-esp32-/master/ink_1.jpg' /> 
