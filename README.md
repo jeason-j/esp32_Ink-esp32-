@@ -5,7 +5,11 @@ esp32串口接收bmp图像数据并显示到墨水屏
 好处：显示汉字，树莓派显示屏
 
  
-
+ 目录：
+ 1.esp32_Ink_420: esp32硬件的arduino源码，编译并烧录到esp32
+ 
+ 2.raspberry_client: 树莓派上运行的py源码，把文字格式化成bmp图像文件，通过usb串口把文件信息传给esp32供墨水屏显示
+ 
  
 
  增强型墨水屏
@@ -65,6 +69,7 @@ esp32串口接收bmp图像数据并显示到墨水屏
          https://github.com/me-no-dev/arduino-esp32fs-plugin
 
   3.编译：
+         arduino 打开目录esp32_Ink_420下的arduino源码
 
          开发板: esp32 dev module,
 
