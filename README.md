@@ -31,7 +31,7 @@ esp32串口接收bmp图像数据并显示到墨水屏
          https://github.com/ZinggJM/GxEPD
   3.esp32上传文件到 esp32 SPIFFS分区的软件
          https://github.com/me-no-dev/arduino-esp32fs-plugin
-  3.编译：
+  3.编译： 
          开发板: esp32 dev module,
          Partition Schemo: Default 4Mb with spiffs (1.2MB APP/ 1.5Mb SPIFFS)
          PSRAM: 随意，如果esp32板没有PSRAM硬件就不要选Enabled
