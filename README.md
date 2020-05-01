@@ -2,7 +2,16 @@ esp32串口接收bmp图像数据并显示到墨水屏
 
 树莓派通过usb串口连接到esp32, 然后树莓派运行程序把任意文字显示到墨水屏
 
-好处：显示汉字，树莓派显示屏
+好处：树莓派更容易组织文字，输出汉字
+
+效果图
+<br/>
+<img src= 'https://raw.githubusercontent.com/lixy123/esp32_Ink-esp32-/master/ink_2.jpg' /> 
+
+<br/>
+<img src= 'https://raw.githubusercontent.com/lixy123/esp32_Ink-esp32-/master/ink_1.jpg' /> 
+<br/>
+
 
  
  目录：
