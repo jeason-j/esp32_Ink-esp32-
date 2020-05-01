@@ -7,16 +7,19 @@ esp32串口墨水屏，树莓派通过usb串口借助esp32显示图像到墨水�
 于是想到把二者结合。 利用树莓派的强大功能处理任意文字(汉字)并生成图像,esp32负责把二进制图像展示.<br/>
 2硬件通过usb线连接<br/>
 
-效果图
+效果图:
 <br/>
 <img src= 'https://raw.githubusercontent.com/lixy123/esp32_Ink-esp32-/master/ink_3.jpg' /> 
 
 <br/>
 <img src= 'https://raw.githubusercontent.com/lixy123/esp32_Ink-esp32-/master/ink_1.jpg' /> 
 <br/>
-
-
- 
+用电实测:
+<br/>
+<img src= 'https://raw.githubusercontent.com/lixy123/esp32_Ink-esp32-/master/ink_2.jpg' /> 
+<br/>
+ 注：墨水屏一般不需要频繁刷新，不刷新时将esp32进入睡眠模式，电流可减至17ms
+ <br/>
  目录：
  
  1.esp32_Ink_420: esp32硬件的arduino源码，编译并烧录到esp32
